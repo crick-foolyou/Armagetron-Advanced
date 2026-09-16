@@ -219,4 +219,4 @@ Armagetron Advanced is the complete free version, offering all features and upda
 Start your racing adventure today! Download Armagetron Advanced for Windows and immerse yourself in a world of high-speed excitement and strategic gameplay.
 
 ---
-**Last updated:** 2026-09-16 13:09:01 UTC
+**Last updated:** 2026-09-16 17:48:00 UTC
